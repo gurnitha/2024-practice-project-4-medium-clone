@@ -147,3 +147,14 @@
         2. Message sudah muncul.
 
         :)
+
+#### 10. Logout
+
+        modified:   readme.md
+        modified:   user_profile/urls.py
+        modified:   user_profile/views.py
+
+        NOTE:
+
+        1. Logout :)
+        2. Login (:
