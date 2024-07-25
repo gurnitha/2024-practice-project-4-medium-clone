@@ -38,3 +38,17 @@
         new file:   page/tests.py
         new file:   page/views.py
         modified:   readme.md
+
+### 5. Mengisi template, dan load static files pada homepage
+
+        modified:   config/settings.py
+        modified:   page/templates/page/home_page.html
+        new file:   static_files/css/bootstrap.min.css
+        new file:   static_files/css/bootstrap.min.css.map
+        new file:   static_files/css/style.css
+        new file:   static_files/js/bootstrap.bundle.min.js
+        new file:   static_files/js/bootstrap.bundle.min.js.map
+        new file:   templates/core/base.html
+        new file:   templates/core/navbar.html
+
+        :)
