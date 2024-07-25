@@ -135,3 +135,15 @@
 
         1. Belum bisa login.
         2. Message tidak muncul.
+
+#### 9. Modified Django-Messages-Framework
+
+        modified:   readme.md
+        modified:   templates/core/messages.html
+
+        NOTE:
+
+        1. Berhasil login dan redirect ke homepage.
+        2. Message sudah muncul.
+
+        :)
