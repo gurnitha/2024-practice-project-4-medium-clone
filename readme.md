@@ -124,3 +124,14 @@
         NOTE:
 
         Belum bisa login.
+
+#### 8. Django-Messages-Framework
+
+        modified:   templates/core/base.html
+        new file:   templates/core/messages.html
+        modified:   user_profile/views.py
+
+        NOTE:
+
+        1. Belum bisa login.
+        2. Message tidak muncul.
