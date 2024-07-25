@@ -158,3 +158,8 @@
 
         1. Logout :)
         2. Login (:
+
+#### 11. Login: added more conditionals on login_view
+
+        modified:   templates/core/base_without_navbar.html
+        modified:   user_profile/views.py
