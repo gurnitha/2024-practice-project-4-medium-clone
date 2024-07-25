@@ -115,3 +115,12 @@
         NOTE:
 
         Belum bisa login.
+
+#### 7. Membuat logik pada login_view
+
+        modified:   config/settings.py
+        modified:   user_profile/views.py
+
+        NOTE:
+
+        Belum bisa login.
