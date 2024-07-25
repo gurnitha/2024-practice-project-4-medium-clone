@@ -24,3 +24,17 @@
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+#### 4. Membuat app page, home view
+
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   page/__init__.py
+        new file:   page/admin.py
+        new file:   page/apps.py
+        new file:   page/migrations/__init__.py
+        new file:   page/models.py
+        new file:   page/templates/page/home_page.html
+        new file:   page/tests.py
+        new file:   page/views.py
+        modified:   readme.md
