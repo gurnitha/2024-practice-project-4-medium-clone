@@ -172,3 +172,9 @@ https://github.com/gurnitha/2024-practice-project-4-medium-clone
         new file:   user_profile/templates/user_profile/register.html
         modified:   user_profile/urls.py
         modified:   user_profile/views.py
+
+#### 13. Creating-User-Profile-Model-Structure
+
+        modified:   user_profile/models.py
+        modified:   user_profile/templates/user_profile/register.html
+        modified:   user_profile/views.py
