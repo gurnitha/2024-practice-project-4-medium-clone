@@ -1,5 +1,5 @@
 # Latihan membuat aplikasi blog - Medium Clone
-
+https://github.com/gurnitha/2024-practice-project-4-medium-clone
 
 #### 1. Inisial komit
 
@@ -162,4 +162,13 @@
 #### 11. Login: added more conditionals on login_view
 
         modified:   templates/core/base_without_navbar.html
+        modified:   user_profile/views.py
+
+#### 12. Creating the Sign-Up-Register-Page
+
+        modified:   config/settings.py
+        modified:   readme.md
+        modified:   templates/core/navbar.html
+        new file:   user_profile/templates/user_profile/register.html
+        modified:   user_profile/urls.py
         modified:   user_profile/views.py
